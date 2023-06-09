@@ -104,6 +104,11 @@ ul {
   border-bottom: 3px solid #f48369;
 }
 
+.open-src {
+  color: #004e4e;
+  text-decoration: underline;
+}
+
 /* Color Palette */
 :root {
   --charcoal: rgb(61, 77, 109);
